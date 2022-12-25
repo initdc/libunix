@@ -1,8 +1,8 @@
 # Libunix
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/libunix`. To experiment with that code, run `bin/console` for an interactive prompt.
+> Wrapper for unix command and re-implementation
 
-TODO: Delete this and the text above, and describe your gem
+Wrapper for unix command, and re-implement them for cross-platform support
 
 ## Installation
 
@@ -26,4 +26,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/libunix.
+Bug reports and pull requests are welcome on GitHub at https://github.com/initdc/libunix.
